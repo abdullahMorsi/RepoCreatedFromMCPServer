@@ -1,4 +1,4 @@
-# RepoCreatedFromMCPServer
+# Repo Created From MCP Server
 
 This repository was created automatically using the MCP Server.
 
